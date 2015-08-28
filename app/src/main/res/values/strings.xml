@@ -1,6 +1,17 @@
 <resources>
     <string name="app_name">Jax Quiz App</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+
+    <string name="answer_text">Correct/Incorrect</string>
+    <string name="correct_text">Correct</string>
+    <string name="incorrect_text">Incorrect</string>
+
+    <string name="question_text1">Jacksonville is the largest city in
+    the continental United States by land mass.</string>
+    <string name="question_text2">Jacksonville is the capital of
+    Florida.</string>
+    <string name="question_text3">Lynyrd Skynyrd is from Jacksonville.</string>
 </resources>

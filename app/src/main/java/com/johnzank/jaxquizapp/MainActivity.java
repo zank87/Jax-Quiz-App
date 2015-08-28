@@ -4,8 +4,19 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
+    private TextView mQuestionTV;
+    private TextView mAnswerTV;
+    private int mCurrentIndex = 0;
+    private int[] mQuestionBank = new int[] {
+            R.string.question_text1, R.string.question_text2, R.string.question_text3
+    };
+    private boolean[] mAnswerBank = new boolean[] {
+            true, false, true
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
