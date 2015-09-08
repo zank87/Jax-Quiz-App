@@ -14,4 +14,8 @@
     <string name="question_text2">Jacksonville is the capital of
     Florida.</string>
     <string name="question_text3">Lynyrd Skynyrd is from Jacksonville.</string>
+    <string name="action_settings">Jax Quiz App</string>
+    <string name="question_text4">UCF is located in Jacksonville</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="hint_text">Are you sure you want to do this?</string>
 </resources>
